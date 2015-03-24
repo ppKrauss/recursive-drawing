@@ -3,7 +3,7 @@
  * [Fast tutorial video](http://recursivedrawing.com/)
  * [Start Drawing!](http://recursivedrawing.com/draw.html)
 
-## Installation from Gitgub
+## Installation from Github
 By terminal
 ```
 cd yourFolder
@@ -46,7 +46,7 @@ Textual instructions (if you don't want to  [watch the demo video](http://recurs
 
 ##Examples
 
-You can trying your hand on some *[Sierpinski carpet](https://en.wikipedia.org/wiki/Sierpinski_carpet)* and *pseudo-dragon curve*, After some practice you will get!  **[Try these ones](http://imgur.com/a/EneFC)**.
+You can trying your hand on some *[Sierpinski carpet](https://en.wikipedia.org/wiki/Sierpinski_carpet)* and *pseudo-dragon curve*... After some practice you will get!  **[Try these ones](http://imgur.com/a/EneFC)**.
 
 Here's a *[Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle)*,
 
